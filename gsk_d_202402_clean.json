@@ -1,0 +1,1382 @@
+[
+  {
+    "MonatJahr": " 01/2005",
+    "Geschäftsklima": 92.2,
+    "Geschäftslage": 87.4,
+    "Geschäftserwartungen": 97.2
+  },
+  {
+    "MonatJahr": " 02/2005",
+    "Geschäftsklima": 92.0,
+    "Geschäftslage": 88.0,
+    "Geschäftserwartungen": 96.1
+  },
+  {
+    "MonatJahr": " 03/2005",
+    "Geschäftsklima": 90.1,
+    "Geschäftslage": 85.9,
+    "Geschäftserwartungen": 94.5
+  },
+  {
+    "MonatJahr": " 04/2005",
+    "Geschäftsklima": 90.0,
+    "Geschäftslage": 86.3,
+    "Geschäftserwartungen": 93.7
+  },
+  {
+    "MonatJahr": " 05/2005",
+    "Geschäftsklima": 89.4,
+    "Geschäftslage": 86.1,
+    "Geschäftserwartungen": 92.7
+  },
+  {
+    "MonatJahr": " 06/2005",
+    "Geschäftsklima": 89.4,
+    "Geschäftslage": 85.7,
+    "Geschäftserwartungen": 93.2
+  },
+  {
+    "MonatJahr": " 07/2005",
+    "Geschäftsklima": 91.1,
+    "Geschäftslage": 85.8,
+    "Geschäftserwartungen": 96.8
+  },
+  {
+    "MonatJahr": " 08/2005",
+    "Geschäftsklima": 92.1,
+    "Geschäftslage": 86.8,
+    "Geschäftserwartungen": 97.6
+  },
+  {
+    "MonatJahr": " 09/2005",
+    "Geschäftsklima": 92.8,
+    "Geschäftslage": 88.2,
+    "Geschäftserwartungen": 97.7
+  },
+  {
+    "MonatJahr": " 10/2005",
+    "Geschäftsklima": 94.4,
+    "Geschäftslage": 88.7,
+    "Geschäftserwartungen": 100.4
+  },
+  {
+    "MonatJahr": " 11/2005",
+    "Geschäftsklima": 94.9,
+    "Geschäftslage": 90.7,
+    "Geschäftserwartungen": 99.3
+  },
+  {
+    "MonatJahr": " 12/2005",
+    "Geschäftsklima": 95.0,
+    "Geschäftslage": 90.3,
+    "Geschäftserwartungen": 100.0
+  },
+  {
+    "MonatJahr": " 01/2006",
+    "Geschäftsklima": 96.5,
+    "Geschäftslage": 91.8,
+    "Geschäftserwartungen": 101.5
+  },
+  {
+    "MonatJahr": " 02/2006",
+    "Geschäftsklima": 97.7,
+    "Geschäftslage": 93.3,
+    "Geschäftserwartungen": 102.3
+  },
+  {
+    "MonatJahr": " 03/2006",
+    "Geschäftsklima": 98.1,
+    "Geschäftslage": 94.2,
+    "Geschäftserwartungen": 102.1
+  },
+  {
+    "MonatJahr": " 04/2006",
+    "Geschäftsklima": 98.0,
+    "Geschäftslage": 94.3,
+    "Geschäftserwartungen": 101.8
+  },
+  {
+    "MonatJahr": " 05/2006",
+    "Geschäftsklima": 98.9,
+    "Geschäftslage": 97.1,
+    "Geschäftserwartungen": 100.8
+  },
+  {
+    "MonatJahr": " 06/2006",
+    "Geschäftsklima": 99.1,
+    "Geschäftslage": 96.9,
+    "Geschäftserwartungen": 101.4
+  },
+  {
+    "MonatJahr": " 07/2006",
+    "Geschäftsklima": 98.8,
+    "Geschäftslage": 97.5,
+    "Geschäftserwartungen": 100.2
+  },
+  {
+    "MonatJahr": " 08/2006",
+    "Geschäftsklima": 98.7,
+    "Geschäftslage": 97.3,
+    "Geschäftserwartungen": 100.1
+  },
+  {
+    "MonatJahr": " 09/2006",
+    "Geschäftsklima": 99.0,
+    "Geschäftslage": 97.9,
+    "Geschäftserwartungen": 100.1
+  },
+  {
+    "MonatJahr": " 10/2006",
+    "Geschäftsklima": 99.4,
+    "Geschäftslage": 98.8,
+    "Geschäftserwartungen": 100.0
+  },
+  {
+    "MonatJahr": " 11/2006",
+    "Geschäftsklima": 100.8,
+    "Geschäftslage": 99.9,
+    "Geschäftserwartungen": 101.6
+  },
+  {
+    "MonatJahr": " 12/2006",
+    "Geschäftsklima": 101.8,
+    "Geschäftslage": 101.2,
+    "Geschäftserwartungen": 102.3
+  },
+  {
+    "MonatJahr": " 01/2007",
+    "Geschäftsklima": 101.5,
+    "Geschäftslage": 100.1,
+    "Geschäftserwartungen": 102.9
+  },
+  {
+    "MonatJahr": " 02/2007",
+    "Geschäftsklima": 100.0,
+    "Geschäftslage": 98.8,
+    "Geschäftserwartungen": 101.3
+  },
+  {
+    "MonatJahr": " 03/2007",
+    "Geschäftsklima": 100.7,
+    "Geschäftslage": 99.9,
+    "Geschäftserwartungen": 101.6
+  },
+  {
+    "MonatJahr": " 04/2007",
+    "Geschäftsklima": 101.1,
+    "Geschäftslage": 100.8,
+    "Geschäftserwartungen": 101.3
+  },
+  {
+    "MonatJahr": " 05/2007",
+    "Geschäftsklima": 101.2,
+    "Geschäftslage": 100.6,
+    "Geschäftserwartungen": 101.8
+  },
+  {
+    "MonatJahr": " 06/2007",
+    "Geschäftsklima": 100.0,
+    "Geschäftslage": 99.0,
+    "Geschäftserwartungen": 101.0
+  },
+  {
+    "MonatJahr": " 07/2007",
+    "Geschäftsklima": 100.2,
+    "Geschäftslage": 99.3,
+    "Geschäftserwartungen": 101.1
+  },
+  {
+    "MonatJahr": " 08/2007",
+    "Geschäftsklima": 99.8,
+    "Geschäftslage": 99.1,
+    "Geschäftserwartungen": 100.6
+  },
+  {
+    "MonatJahr": " 09/2007",
+    "Geschäftsklima": 99.2,
+    "Geschäftslage": 98.8,
+    "Geschäftserwartungen": 99.7
+  },
+  {
+    "MonatJahr": " 10/2007",
+    "Geschäftsklima": 99.8,
+    "Geschäftslage": 99.7,
+    "Geschäftserwartungen": 100.0
+  },
+  {
+    "MonatJahr": " 11/2007",
+    "Geschäftsklima": 98.7,
+    "Geschäftslage": 98.6,
+    "Geschäftserwartungen": 98.7
+  },
+  {
+    "MonatJahr": " 12/2007",
+    "Geschäftsklima": 98.8,
+    "Geschäftslage": 97.7,
+    "Geschäftserwartungen": 99.8
+  },
+  {
+    "MonatJahr": " 01/2008",
+    "Geschäftsklima": 98.2,
+    "Geschäftslage": 98.8,
+    "Geschäftserwartungen": 97.6
+  },
+  {
+    "MonatJahr": " 02/2008",
+    "Geschäftsklima": 98.1,
+    "Geschäftslage": 98.8,
+    "Geschäftserwartungen": 97.5
+  },
+  {
+    "MonatJahr": " 03/2008",
+    "Geschäftsklima": 98.1,
+    "Geschäftslage": 99.0,
+    "Geschäftserwartungen": 97.3
+  },
+  {
+    "MonatJahr": " 04/2008",
+    "Geschäftsklima": 97.1,
+    "Geschäftslage": 98.6,
+    "Geschäftserwartungen": 95.7
+  },
+  {
+    "MonatJahr": " 05/2008",
+    "Geschäftsklima": 96.8,
+    "Geschäftslage": 98.0,
+    "Geschäftserwartungen": 95.6
+  },
+  {
+    "MonatJahr": " 06/2008",
+    "Geschäftsklima": 95.7,
+    "Geschäftslage": 97.1,
+    "Geschäftserwartungen": 94.4
+  },
+  {
+    "MonatJahr": " 07/2008",
+    "Geschäftsklima": 92.4,
+    "Geschäftslage": 93.7,
+    "Geschäftserwartungen": 91.1
+  },
+  {
+    "MonatJahr": " 08/2008",
+    "Geschäftsklima": 91.5,
+    "Geschäftslage": 93.4,
+    "Geschäftserwartungen": 89.7
+  },
+  {
+    "MonatJahr": " 09/2008",
+    "Geschäftsklima": 91.1,
+    "Geschäftslage": 92.2,
+    "Geschäftserwartungen": 90.1
+  },
+  {
+    "MonatJahr": " 10/2008",
+    "Geschäftsklima": 87.1,
+    "Geschäftslage": 90.5,
+    "Geschäftserwartungen": 83.8
+  },
+  {
+    "MonatJahr": " 11/2008",
+    "Geschäftsklima": 84.3,
+    "Geschäftslage": 87.2,
+    "Geschäftserwartungen": 81.5
+  },
+  {
+    "MonatJahr": " 12/2008",
+    "Geschäftsklima": 80.9,
+    "Geschäftslage": 82.5,
+    "Geschäftserwartungen": 79.3
+  },
+  {
+    "MonatJahr": " 01/2009",
+    "Geschäftsklima": 81.7,
+    "Geschäftslage": 82.1,
+    "Geschäftserwartungen": 81.3
+  },
+  {
+    "MonatJahr": " 02/2009",
+    "Geschäftsklima": 81.3,
+    "Geschäftslage": 80.1,
+    "Geschäftserwartungen": 82.6
+  },
+  {
+    "MonatJahr": " 03/2009",
+    "Geschäftsklima": 79.7,
+    "Geschäftslage": 77.5,
+    "Geschäftserwartungen": 82.0
+  },
+  {
+    "MonatJahr": " 04/2009",
+    "Geschäftsklima": 81.5,
+    "Geschäftslage": 78.4,
+    "Geschäftserwartungen": 84.8
+  },
+  {
+    "MonatJahr": " 05/2009",
+    "Geschäftsklima": 82.1,
+    "Geschäftslage": 77.8,
+    "Geschäftserwartungen": 86.6
+  },
+  {
+    "MonatJahr": " 06/2009",
+    "Geschäftsklima": 83.8,
+    "Geschäftslage": 78.0,
+    "Geschäftserwartungen": 90.1
+  },
+  {
+    "MonatJahr": " 07/2009",
+    "Geschäftsklima": 85.1,
+    "Geschäftslage": 78.6,
+    "Geschäftserwartungen": 92.2
+  },
+  {
+    "MonatJahr": " 08/2009",
+    "Geschäftsklima": 87.5,
+    "Geschäftslage": 80.2,
+    "Geschäftserwartungen": 95.5
+  },
+  {
+    "MonatJahr": " 09/2009",
+    "Geschäftsklima": 89.2,
+    "Geschäftslage": 81.1,
+    "Geschäftserwartungen": 98.2
+  },
+  {
+    "MonatJahr": " 10/2009",
+    "Geschäftsklima": 89.5,
+    "Geschäftslage": 81.7,
+    "Geschäftserwartungen": 98.1
+  },
+  {
+    "MonatJahr": " 11/2009",
+    "Geschäftsklima": 90.8,
+    "Geschäftslage": 82.7,
+    "Geschäftserwartungen": 99.5
+  },
+  {
+    "MonatJahr": " 12/2009",
+    "Geschäftsklima": 90.9,
+    "Geschäftslage": 83.8,
+    "Geschäftserwartungen": 98.7
+  },
+  {
+    "MonatJahr": " 01/2010",
+    "Geschäftsklima": 90.6,
+    "Geschäftslage": 83.9,
+    "Geschäftserwartungen": 97.9
+  },
+  {
+    "MonatJahr": " 02/2010",
+    "Geschäftsklima": 90.7,
+    "Geschäftslage": 84.5,
+    "Geschäftserwartungen": 97.4
+  },
+  {
+    "MonatJahr": " 03/2010",
+    "Geschäftsklima": 92.2,
+    "Geschäftslage": 85.4,
+    "Geschäftserwartungen": 99.6
+  },
+  {
+    "MonatJahr": " 04/2010",
+    "Geschäftsklima": 95.5,
+    "Geschäftslage": 90.3,
+    "Geschäftserwartungen": 101.1
+  },
+  {
+    "MonatJahr": " 05/2010",
+    "Geschäftsklima": 95.6,
+    "Geschäftslage": 91.0,
+    "Geschäftserwartungen": 100.5
+  },
+  {
+    "MonatJahr": " 06/2010",
+    "Geschäftsklima": 96.3,
+    "Geschäftslage": 92.5,
+    "Geschäftserwartungen": 100.3
+  },
+  {
+    "MonatJahr": " 07/2010",
+    "Geschäftsklima": 98.5,
+    "Geschäftslage": 94.9,
+    "Geschäftserwartungen": 102.2
+  },
+  {
+    "MonatJahr": " 08/2010",
+    "Geschäftsklima": 99.8,
+    "Geschäftslage": 96.0,
+    "Geschäftserwartungen": 103.7
+  },
+  {
+    "MonatJahr": " 09/2010",
+    "Geschäftsklima": 100.6,
+    "Geschäftslage": 97.8,
+    "Geschäftserwartungen": 103.5
+  },
+  {
+    "MonatJahr": " 10/2010",
+    "Geschäftsklima": 101.8,
+    "Geschäftslage": 98.8,
+    "Geschäftserwartungen": 104.8
+  },
+  {
+    "MonatJahr": " 11/2010",
+    "Geschäftsklima": 103.4,
+    "Geschäftslage": 100.7,
+    "Geschäftserwartungen": 106.1
+  },
+  {
+    "MonatJahr": " 12/2010",
+    "Geschäftsklima": 103.0,
+    "Geschäftslage": 100.4,
+    "Geschäftserwartungen": 105.6
+  },
+  {
+    "MonatJahr": " 01/2011",
+    "Geschäftsklima": 101.6,
+    "Geschäftslage": 99.7,
+    "Geschäftserwartungen": 103.5
+  },
+  {
+    "MonatJahr": " 02/2011",
+    "Geschäftsklima": 102.5,
+    "Geschäftslage": 102.0,
+    "Geschäftserwartungen": 103.1
+  },
+  {
+    "MonatJahr": " 03/2011",
+    "Geschäftsklima": 102.2,
+    "Geschäftslage": 101.9,
+    "Geschäftserwartungen": 102.5
+  },
+  {
+    "MonatJahr": " 04/2011",
+    "Geschäftsklima": 102.2,
+    "Geschäftslage": 102.8,
+    "Geschäftserwartungen": 101.7
+  },
+  {
+    "MonatJahr": " 05/2011",
+    "Geschäftsklima": 102.6,
+    "Geschäftslage": 103.7,
+    "Geschäftserwartungen": 101.5
+  },
+  {
+    "MonatJahr": " 06/2011",
+    "Geschäftsklima": 102.0,
+    "Geschäftslage": 102.6,
+    "Geschäftserwartungen": 101.4
+  },
+  {
+    "MonatJahr": " 07/2011",
+    "Geschäftsklima": 102.3,
+    "Geschäftslage": 103.2,
+    "Geschäftserwartungen": 101.3
+  },
+  {
+    "MonatJahr": " 08/2011",
+    "Geschäftsklima": 99.6,
+    "Geschäftslage": 102.1,
+    "Geschäftserwartungen": 97.1
+  },
+  {
+    "MonatJahr": " 09/2011",
+    "Geschäftsklima": 97.9,
+    "Geschäftslage": 100.1,
+    "Geschäftserwartungen": 95.8
+  },
+  {
+    "MonatJahr": " 10/2011",
+    "Geschäftsklima": 97.9,
+    "Geschäftslage": 100.1,
+    "Geschäftserwartungen": 95.7
+  },
+  {
+    "MonatJahr": " 11/2011",
+    "Geschäftsklima": 98.1,
+    "Geschäftslage": 100.8,
+    "Geschäftserwartungen": 95.5
+  },
+  {
+    "MonatJahr": " 12/2011",
+    "Geschäftsklima": 98.1,
+    "Geschäftslage": 100.8,
+    "Geschäftserwartungen": 95.4
+  },
+  {
+    "MonatJahr": " 01/2012",
+    "Geschäftsklima": 98.4,
+    "Geschäftslage": 100.1,
+    "Geschäftserwartungen": 96.7
+  },
+  {
+    "MonatJahr": " 02/2012",
+    "Geschäftsklima": 99.3,
+    "Geschäftslage": 100.7,
+    "Geschäftserwartungen": 97.8
+  },
+  {
+    "MonatJahr": " 03/2012",
+    "Geschäftsklima": 99.5,
+    "Geschäftslage": 100.4,
+    "Geschäftserwartungen": 98.7
+  },
+  {
+    "MonatJahr": " 04/2012",
+    "Geschäftsklima": 100.1,
+    "Geschäftslage": 101.7,
+    "Geschäftserwartungen": 98.6
+  },
+  {
+    "MonatJahr": " 05/2012",
+    "Geschäftsklima": 99.0,
+    "Geschäftslage": 101.1,
+    "Geschäftserwartungen": 96.9
+  },
+  {
+    "MonatJahr": " 06/2012",
+    "Geschäftsklima": 96.9,
+    "Geschäftslage": 99.0,
+    "Geschäftserwartungen": 94.8
+  },
+  {
+    "MonatJahr": " 07/2012",
+    "Geschäftsklima": 95.6,
+    "Geschäftslage": 97.5,
+    "Geschäftserwartungen": 93.7
+  },
+  {
+    "MonatJahr": " 08/2012",
+    "Geschäftsklima": 95.1,
+    "Geschäftslage": 97.3,
+    "Geschäftserwartungen": 92.9
+  },
+  {
+    "MonatJahr": " 09/2012",
+    "Geschäftsklima": 94.7,
+    "Geschäftslage": 96.1,
+    "Geschäftserwartungen": 93.4
+  },
+  {
+    "MonatJahr": " 10/2012",
+    "Geschäftsklima": 94.7,
+    "Geschäftslage": 95.7,
+    "Geschäftserwartungen": 93.7
+  },
+  {
+    "MonatJahr": " 11/2012",
+    "Geschäftsklima": 94.0,
+    "Geschäftslage": 95.1,
+    "Geschäftserwartungen": 92.9
+  },
+  {
+    "MonatJahr": " 12/2012",
+    "Geschäftsklima": 95.4,
+    "Geschäftslage": 95.5,
+    "Geschäftserwartungen": 95.2
+  },
+  {
+    "MonatJahr": " 01/2013",
+    "Geschäftsklima": 96.4,
+    "Geschäftslage": 96.6,
+    "Geschäftserwartungen": 96.1
+  },
+  {
+    "MonatJahr": " 02/2013",
+    "Geschäftsklima": 97.3,
+    "Geschäftslage": 95.3,
+    "Geschäftserwartungen": 99.3
+  },
+  {
+    "MonatJahr": " 03/2013",
+    "Geschäftsklima": 97.6,
+    "Geschäftslage": 96.4,
+    "Geschäftserwartungen": 98.8
+  },
+  {
+    "MonatJahr": " 04/2013",
+    "Geschäftsklima": 96.0,
+    "Geschäftslage": 94.2,
+    "Geschäftserwartungen": 97.9
+  },
+  {
+    "MonatJahr": " 05/2013",
+    "Geschäftsklima": 97.2,
+    "Geschäftslage": 95.8,
+    "Geschäftserwartungen": 98.5
+  },
+  {
+    "MonatJahr": " 06/2013",
+    "Geschäftsklima": 96.6,
+    "Geschäftslage": 95.4,
+    "Geschäftserwartungen": 97.8
+  },
+  {
+    "MonatJahr": " 07/2013",
+    "Geschäftsklima": 98.0,
+    "Geschäftslage": 97.2,
+    "Geschäftserwartungen": 98.9
+  },
+  {
+    "MonatJahr": " 08/2013",
+    "Geschäftsklima": 98.7,
+    "Geschäftslage": 96.9,
+    "Geschäftserwartungen": 100.5
+  },
+  {
+    "MonatJahr": " 09/2013",
+    "Geschäftsklima": 98.9,
+    "Geschäftslage": 97.0,
+    "Geschäftserwartungen": 100.9
+  },
+  {
+    "MonatJahr": " 10/2013",
+    "Geschäftsklima": 98.9,
+    "Geschäftslage": 97.9,
+    "Geschäftserwartungen": 99.8
+  },
+  {
+    "MonatJahr": " 11/2013",
+    "Geschäftsklima": 99.5,
+    "Geschäftslage": 97.7,
+    "Geschäftserwartungen": 101.3
+  },
+  {
+    "MonatJahr": " 12/2013",
+    "Geschäftsklima": 100.3,
+    "Geschäftslage": 99.0,
+    "Geschäftserwartungen": 101.6
+  },
+  {
+    "MonatJahr": " 01/2014",
+    "Geschäftsklima": 101.4,
+    "Geschäftslage": 100.1,
+    "Geschäftserwartungen": 102.7
+  },
+  {
+    "MonatJahr": " 02/2014",
+    "Geschäftsklima": 101.3,
+    "Geschäftslage": 99.8,
+    "Geschäftserwartungen": 102.7
+  },
+  {
+    "MonatJahr": " 03/2014",
+    "Geschäftsklima": 101.2,
+    "Geschäftslage": 100.6,
+    "Geschäftserwartungen": 101.8
+  },
+  {
+    "MonatJahr": " 04/2014",
+    "Geschäftsklima": 102.2,
+    "Geschäftslage": 102.3,
+    "Geschäftserwartungen": 102.0
+  },
+  {
+    "MonatJahr": " 05/2014",
+    "Geschäftsklima": 100.2,
+    "Geschäftslage": 99.7,
+    "Geschäftserwartungen": 100.6
+  },
+  {
+    "MonatJahr": " 06/2014",
+    "Geschäftsklima": 99.8,
+    "Geschäftslage": 99.5,
+    "Geschäftserwartungen": 100.2
+  },
+  {
+    "MonatJahr": " 07/2014",
+    "Geschäftsklima": 99.5,
+    "Geschäftslage": 99.3,
+    "Geschäftserwartungen": 99.8
+  },
+  {
+    "MonatJahr": " 08/2014",
+    "Geschäftsklima": 98.3,
+    "Geschäftslage": 98.6,
+    "Geschäftserwartungen": 98.0
+  },
+  {
+    "MonatJahr": " 09/2014",
+    "Geschäftsklima": 97.6,
+    "Geschäftslage": 98.3,
+    "Geschäftserwartungen": 97.0
+  },
+  {
+    "MonatJahr": " 10/2014",
+    "Geschäftsklima": 96.3,
+    "Geschäftslage": 96.6,
+    "Geschäftserwartungen": 95.9
+  },
+  {
+    "MonatJahr": " 11/2014",
+    "Geschäftsklima": 95.9,
+    "Geschäftslage": 95.9,
+    "Geschäftserwartungen": 96.0
+  },
+  {
+    "MonatJahr": " 12/2014",
+    "Geschäftsklima": 98.2,
+    "Geschäftslage": 98.3,
+    "Geschäftserwartungen": 98.1
+  },
+  {
+    "MonatJahr": " 01/2015",
+    "Geschäftsklima": 98.8,
+    "Geschäftslage": 98.8,
+    "Geschäftserwartungen": 98.8
+  },
+  {
+    "MonatJahr": " 02/2015",
+    "Geschäftsklima": 98.7,
+    "Geschäftslage": 98.1,
+    "Geschäftserwartungen": 99.4
+  },
+  {
+    "MonatJahr": " 03/2015",
+    "Geschäftsklima": 99.1,
+    "Geschäftslage": 98.6,
+    "Geschäftserwartungen": 99.6
+  },
+  {
+    "MonatJahr": " 04/2015",
+    "Geschäftsklima": 100.2,
+    "Geschäftslage": 100.4,
+    "Geschäftserwartungen": 100.0
+  },
+  {
+    "MonatJahr": " 05/2015",
+    "Geschäftsklima": 100.5,
+    "Geschäftslage": 100.6,
+    "Geschäftserwartungen": 100.3
+  },
+  {
+    "MonatJahr": " 06/2015",
+    "Geschäftsklima": 100.2,
+    "Geschäftslage": 100.3,
+    "Geschäftserwartungen": 100.1
+  },
+  {
+    "MonatJahr": " 07/2015",
+    "Geschäftsklima": 99.7,
+    "Geschäftslage": 100.6,
+    "Geschäftserwartungen": 98.8
+  },
+  {
+    "MonatJahr": " 08/2015",
+    "Geschäftsklima": 100.6,
+    "Geschäftslage": 100.8,
+    "Geschäftserwartungen": 100.3
+  },
+  {
+    "MonatJahr": " 09/2015",
+    "Geschäftsklima": 100.0,
+    "Geschäftslage": 100.9,
+    "Geschäftserwartungen": 99.2
+  },
+  {
+    "MonatJahr": " 10/2015",
+    "Geschäftsklima": 100.6,
+    "Geschäftslage": 100.1,
+    "Geschäftserwartungen": 101.1
+  },
+  {
+    "MonatJahr": " 11/2015",
+    "Geschäftsklima": 100.9,
+    "Geschäftslage": 100.3,
+    "Geschäftserwartungen": 101.6
+  },
+  {
+    "MonatJahr": " 12/2015",
+    "Geschäftsklima": 100.6,
+    "Geschäftslage": 100.5,
+    "Geschäftserwartungen": 100.7
+  },
+  {
+    "MonatJahr": " 01/2016",
+    "Geschäftsklima": 99.7,
+    "Geschäftslage": 100.1,
+    "Geschäftserwartungen": 99.2
+  },
+  {
+    "MonatJahr": " 02/2016",
+    "Geschäftsklima": 98.7,
+    "Geschäftslage": 99.8,
+    "Geschäftserwartungen": 97.5
+  },
+  {
+    "MonatJahr": " 03/2016",
+    "Geschäftsklima": 99.1,
+    "Geschäftslage": 99.5,
+    "Geschäftserwartungen": 98.8
+  },
+  {
+    "MonatJahr": " 04/2016",
+    "Geschäftsklima": 100.2,
+    "Geschäftslage": 100.4,
+    "Geschäftserwartungen": 99.9
+  },
+  {
+    "MonatJahr": " 05/2016",
+    "Geschäftsklima": 99.9,
+    "Geschäftslage": 100.2,
+    "Geschäftserwartungen": 99.5
+  },
+  {
+    "MonatJahr": " 06/2016",
+    "Geschäftsklima": 100.1,
+    "Geschäftslage": 101.1,
+    "Geschäftserwartungen": 99.1
+  },
+  {
+    "MonatJahr": " 07/2016",
+    "Geschäftsklima": 100.0,
+    "Geschäftslage": 99.9,
+    "Geschäftserwartungen": 100.2
+  },
+  {
+    "MonatJahr": " 08/2016",
+    "Geschäftsklima": 99.7,
+    "Geschäftslage": 99.5,
+    "Geschäftserwartungen": 99.8
+  },
+  {
+    "MonatJahr": " 09/2016",
+    "Geschäftsklima": 100.8,
+    "Geschäftslage": 100.5,
+    "Geschäftserwartungen": 101.0
+  },
+  {
+    "MonatJahr": " 10/2016",
+    "Geschäftsklima": 101.3,
+    "Geschäftslage": 100.6,
+    "Geschäftserwartungen": 102.0
+  },
+  {
+    "MonatJahr": " 11/2016",
+    "Geschäftsklima": 101.6,
+    "Geschäftslage": 102.1,
+    "Geschäftserwartungen": 101.1
+  },
+  {
+    "MonatJahr": " 12/2016",
+    "Geschäftsklima": 100.9,
+    "Geschäftslage": 101.7,
+    "Geschäftserwartungen": 100.1
+  },
+  {
+    "MonatJahr": " 01/2017",
+    "Geschäftsklima": 101.2,
+    "Geschäftslage": 101.9,
+    "Geschäftserwartungen": 100.6
+  },
+  {
+    "MonatJahr": " 02/2017",
+    "Geschäftsklima": 101.2,
+    "Geschäftslage": 102.5,
+    "Geschäftserwartungen": 99.9
+  },
+  {
+    "MonatJahr": " 03/2017",
+    "Geschäftsklima": 101.9,
+    "Geschäftslage": 103.4,
+    "Geschäftserwartungen": 100.4
+  },
+  {
+    "MonatJahr": " 04/2017",
+    "Geschäftsklima": 103.7,
+    "Geschäftslage": 105.2,
+    "Geschäftserwartungen": 102.2
+  },
+  {
+    "MonatJahr": " 05/2017",
+    "Geschäftsklima": 102.8,
+    "Geschäftslage": 104.6,
+    "Geschäftserwartungen": 101.1
+  },
+  {
+    "MonatJahr": " 06/2017",
+    "Geschäftsklima": 102.8,
+    "Geschäftslage": 104.8,
+    "Geschäftserwartungen": 100.8
+  },
+  {
+    "MonatJahr": " 07/2017",
+    "Geschäftsklima": 103.9,
+    "Geschäftslage": 106.7,
+    "Geschäftserwartungen": 101.0
+  },
+  {
+    "MonatJahr": " 08/2017",
+    "Geschäftsklima": 103.7,
+    "Geschäftslage": 105.6,
+    "Geschäftserwartungen": 101.7
+  },
+  {
+    "MonatJahr": " 09/2017",
+    "Geschäftsklima": 103.8,
+    "Geschäftslage": 105.8,
+    "Geschäftserwartungen": 101.9
+  },
+  {
+    "MonatJahr": " 10/2017",
+    "Geschäftsklima": 104.3,
+    "Geschäftslage": 106.3,
+    "Geschäftserwartungen": 102.4
+  },
+  {
+    "MonatJahr": " 11/2017",
+    "Geschäftsklima": 104.9,
+    "Geschäftslage": 106.5,
+    "Geschäftserwartungen": 103.4
+  },
+  {
+    "MonatJahr": " 12/2017",
+    "Geschäftsklima": 104.6,
+    "Geschäftslage": 106.9,
+    "Geschäftserwartungen": 102.3
+  },
+  {
+    "MonatJahr": " 01/2018",
+    "Geschäftsklima": 104.9,
+    "Geschäftslage": 108.5,
+    "Geschäftserwartungen": 101.4
+  },
+  {
+    "MonatJahr": " 02/2018",
+    "Geschäftsklima": 103.9,
+    "Geschäftslage": 107.6,
+    "Geschäftserwartungen": 100.3
+  },
+  {
+    "MonatJahr": " 03/2018",
+    "Geschäftsklima": 103.9,
+    "Geschäftslage": 106.9,
+    "Geschäftserwartungen": 101.0
+  },
+  {
+    "MonatJahr": " 04/2018",
+    "Geschäftsklima": 103.5,
+    "Geschäftslage": 106.5,
+    "Geschäftserwartungen": 100.7
+  },
+  {
+    "MonatJahr": " 05/2018",
+    "Geschäftsklima": 103.0,
+    "Geschäftslage": 106.8,
+    "Geschäftserwartungen": 99.4
+  },
+  {
+    "MonatJahr": " 06/2018",
+    "Geschäftsklima": 101.8,
+    "Geschäftslage": 105.9,
+    "Geschäftserwartungen": 97.8
+  },
+  {
+    "MonatJahr": " 07/2018",
+    "Geschäftsklima": 101.7,
+    "Geschäftslage": 106.0,
+    "Geschäftserwartungen": 97.6
+  },
+  {
+    "MonatJahr": " 08/2018",
+    "Geschäftsklima": 103.8,
+    "Geschäftslage": 107.0,
+    "Geschäftserwartungen": 100.7
+  },
+  {
+    "MonatJahr": " 09/2018",
+    "Geschäftsklima": 103.7,
+    "Geschäftslage": 107.1,
+    "Geschäftserwartungen": 100.4
+  },
+  {
+    "MonatJahr": " 10/2018",
+    "Geschäftsklima": 102.9,
+    "Geschäftslage": 106.3,
+    "Geschäftserwartungen": 99.6
+  },
+  {
+    "MonatJahr": " 11/2018",
+    "Geschäftsklima": 102.3,
+    "Geschäftslage": 106.0,
+    "Geschäftserwartungen": 98.6
+  },
+  {
+    "MonatJahr": " 12/2018",
+    "Geschäftsklima": 101.0,
+    "Geschäftslage": 105.2,
+    "Geschäftserwartungen": 97.0
+  },
+  {
+    "MonatJahr": " 01/2019",
+    "Geschäftsklima": 99.4,
+    "Geschäftslage": 104.9,
+    "Geschäftserwartungen": 94.2
+  },
+  {
+    "MonatJahr": " 02/2019",
+    "Geschäftsklima": 98.5,
+    "Geschäftslage": 103.6,
+    "Geschäftserwartungen": 93.6
+  },
+  {
+    "MonatJahr": " 03/2019",
+    "Geschäftsklima": 99.9,
+    "Geschäftslage": 104.1,
+    "Geschäftserwartungen": 95.9
+  },
+  {
+    "MonatJahr": " 04/2019",
+    "Geschäftsklima": 100.8,
+    "Geschäftslage": 104.5,
+    "Geschäftserwartungen": 97.2
+  },
+  {
+    "MonatJahr": " 05/2019",
+    "Geschäftsklima": 98.5,
+    "Geschäftslage": 101.5,
+    "Geschäftserwartungen": 95.6
+  },
+  {
+    "MonatJahr": " 06/2019",
+    "Geschäftsklima": 97.0,
+    "Geschäftslage": 101.2,
+    "Geschäftserwartungen": 92.9
+  },
+  {
+    "MonatJahr": " 07/2019",
+    "Geschäftsklima": 95.6,
+    "Geschäftslage": 100.1,
+    "Geschäftserwartungen": 91.3
+  },
+  {
+    "MonatJahr": " 08/2019",
+    "Geschäftsklima": 94.2,
+    "Geschäftslage": 97.3,
+    "Geschäftserwartungen": 91.1
+  },
+  {
+    "MonatJahr": " 09/2019",
+    "Geschäftsklima": 94.7,
+    "Geschäftslage": 98.8,
+    "Geschäftserwartungen": 90.8
+  },
+  {
+    "MonatJahr": " 10/2019",
+    "Geschäftsklima": 94.9,
+    "Geschäftslage": 97.9,
+    "Geschäftserwartungen": 92.0
+  },
+  {
+    "MonatJahr": " 11/2019",
+    "Geschäftsklima": 95.3,
+    "Geschäftslage": 98.1,
+    "Geschäftserwartungen": 92.4
+  },
+  {
+    "MonatJahr": " 12/2019",
+    "Geschäftsklima": 96.3,
+    "Geschäftslage": 99.0,
+    "Geschäftserwartungen": 93.6
+  },
+  {
+    "MonatJahr": " 01/2020",
+    "Geschäftsklima": 95.9,
+    "Geschäftslage": 99.7,
+    "Geschäftserwartungen": 92.2
+  },
+  {
+    "MonatJahr": " 02/2020",
+    "Geschäftsklima": 95.7,
+    "Geschäftslage": 99.0,
+    "Geschäftserwartungen": 92.6
+  },
+  {
+    "MonatJahr": " 03/2020",
+    "Geschäftsklima": 86.3,
+    "Geschäftslage": 92.9,
+    "Geschäftserwartungen": 80.2
+  },
+  {
+    "MonatJahr": " 04/2020",
+    "Geschäftsklima": 75.1,
+    "Geschäftslage": 79.3,
+    "Geschäftserwartungen": 71.2
+  },
+  {
+    "MonatJahr": " 05/2020",
+    "Geschäftsklima": 79.8,
+    "Geschäftslage": 78.7,
+    "Geschäftserwartungen": 80.9
+  },
+  {
+    "MonatJahr": " 06/2020",
+    "Geschäftsklima": 85.6,
+    "Geschäftslage": 81.0,
+    "Geschäftserwartungen": 90.4
+  },
+  {
+    "MonatJahr": " 07/2020",
+    "Geschäftsklima": 89.5,
+    "Geschäftslage": 84.3,
+    "Geschäftserwartungen": 95.0
+  },
+  {
+    "MonatJahr": " 08/2020",
+    "Geschäftsklima": 92.1,
+    "Geschäftslage": 87.7,
+    "Geschäftserwartungen": 96.8
+  },
+  {
+    "MonatJahr": " 09/2020",
+    "Geschäftsklima": 93.4,
+    "Geschäftslage": 89.4,
+    "Geschäftserwartungen": 97.4
+  },
+  {
+    "MonatJahr": " 10/2020",
+    "Geschäftsklima": 92.9,
+    "Geschäftslage": 90.5,
+    "Geschäftserwartungen": 95.4
+  },
+  {
+    "MonatJahr": " 11/2020",
+    "Geschäftsklima": 91.6,
+    "Geschäftslage": 90.2,
+    "Geschäftserwartungen": 93.0
+  },
+  {
+    "MonatJahr": " 12/2020",
+    "Geschäftsklima": 92.9,
+    "Geschäftslage": 91.7,
+    "Geschäftserwartungen": 94.1
+  },
+  {
+    "MonatJahr": " 01/2021",
+    "Geschäftsklima": 90.4,
+    "Geschäftslage": 89.6,
+    "Geschäftserwartungen": 91.2
+  },
+  {
+    "MonatJahr": " 02/2021",
+    "Geschäftsklima": 92.5,
+    "Geschäftslage": 91.0,
+    "Geschäftserwartungen": 93.9
+  },
+  {
+    "MonatJahr": " 03/2021",
+    "Geschäftsklima": 96.3,
+    "Geschäftslage": 93.3,
+    "Geschäftserwartungen": 99.3
+  },
+  {
+    "MonatJahr": " 04/2021",
+    "Geschäftsklima": 96.1,
+    "Geschäftslage": 94.3,
+    "Geschäftserwartungen": 98.1
+  },
+  {
+    "MonatJahr": " 05/2021",
+    "Geschäftsklima": 98.6,
+    "Geschäftslage": 95.8,
+    "Geschäftserwartungen": 101.4
+  },
+  {
+    "MonatJahr": " 06/2021",
+    "Geschäftsklima": 101.3,
+    "Geschäftslage": 99.9,
+    "Geschäftserwartungen": 102.6
+  },
+  {
+    "MonatJahr": " 07/2021",
+    "Geschäftsklima": 100.9,
+    "Geschäftslage": 100.6,
+    "Geschäftserwartungen": 101.1
+  },
+  {
+    "MonatJahr": " 08/2021",
+    "Geschäftsklima": 100.2,
+    "Geschäftslage": 101.7,
+    "Geschäftserwartungen": 98.6
+  },
+  {
+    "MonatJahr": " 09/2021",
+    "Geschäftsklima": 99.9,
+    "Geschäftslage": 100.9,
+    "Geschäftserwartungen": 98.9
+  },
+  {
+    "MonatJahr": " 10/2021",
+    "Geschäftsklima": 98.7,
+    "Geschäftslage": 100.6,
+    "Geschäftserwartungen": 96.9
+  },
+  {
+    "MonatJahr": " 11/2021",
+    "Geschäftsklima": 97.1,
+    "Geschäftslage": 99.4,
+    "Geschäftserwartungen": 94.9
+  },
+  {
+    "MonatJahr": " 12/2021",
+    "Geschäftsklima": 95.0,
+    "Geschäftslage": 97.3,
+    "Geschäftserwartungen": 92.7
+  },
+  {
+    "MonatJahr": " 01/2022",
+    "Geschäftsklima": 95.8,
+    "Geschäftslage": 96.6,
+    "Geschäftserwartungen": 95.1
+  },
+  {
+    "MonatJahr": " 02/2022",
+    "Geschäftsklima": 98.3,
+    "Geschäftslage": 98.9,
+    "Geschäftserwartungen": 97.6
+  },
+  {
+    "MonatJahr": " 03/2022",
+    "Geschäftsklima": 90.1,
+    "Geschäftslage": 97.2,
+    "Geschäftserwartungen": 83.6
+  },
+  {
+    "MonatJahr": " 04/2022",
+    "Geschäftsklima": 91.4,
+    "Geschäftslage": 97.4,
+    "Geschäftserwartungen": 85.8
+  },
+  {
+    "MonatJahr": " 05/2022",
+    "Geschäftsklima": 92.7,
+    "Geschäftslage": 99.7,
+    "Geschäftserwartungen": 86.2
+  },
+  {
+    "MonatJahr": " 06/2022",
+    "Geschäftsklima": 92.4,
+    "Geschäftslage": 99.5,
+    "Geschäftserwartungen": 85.8
+  },
+  {
+    "MonatJahr": " 07/2022",
+    "Geschäftsklima": 88.8,
+    "Geschäftslage": 98.0,
+    "Geschäftserwartungen": 80.5
+  },
+  {
+    "MonatJahr": " 08/2022",
+    "Geschäftsklima": 89.3,
+    "Geschäftslage": 97.7,
+    "Geschäftserwartungen": 81.5
+  },
+  {
+    "MonatJahr": " 09/2022",
+    "Geschäftsklima": 85.4,
+    "Geschäftslage": 94.8,
+    "Geschäftserwartungen": 77.0
+  },
+  {
+    "MonatJahr": " 10/2022",
+    "Geschäftsklima": 85.3,
+    "Geschäftslage": 94.4,
+    "Geschäftserwartungen": 77.0
+  },
+  {
+    "MonatJahr": " 11/2022",
+    "Geschäftsklima": 86.8,
+    "Geschäftslage": 93.3,
+    "Geschäftserwartungen": 80.7
+  },
+  {
+    "MonatJahr": " 12/2022",
+    "Geschäftsklima": 88.8,
+    "Geschäftslage": 94.2,
+    "Geschäftserwartungen": 83.6
+  },
+  {
+    "MonatJahr": " 01/2023",
+    "Geschäftsklima": 90.1,
+    "Geschäftslage": 94.4,
+    "Geschäftserwartungen": 86.0
+  },
+  {
+    "MonatJahr": " 02/2023",
+    "Geschäftsklima": 90.7,
+    "Geschäftslage": 94.1,
+    "Geschäftserwartungen": 87.5
+  },
+  {
+    "MonatJahr": " 03/2023",
+    "Geschäftsklima": 92.9,
+    "Geschäftslage": 95.5,
+    "Geschäftserwartungen": 90.3
+  },
+  {
+    "MonatJahr": " 04/2023",
+    "Geschäftsklima": 93.1,
+    "Geschäftslage": 95.1,
+    "Geschäftserwartungen": 91.1
+  },
+  {
+    "MonatJahr": " 05/2023",
+    "Geschäftsklima": 91.4,
+    "Geschäftslage": 94.9,
+    "Geschäftserwartungen": 88.1
+  },
+  {
+    "MonatJahr": " 06/2023",
+    "Geschäftsklima": 88.7,
+    "Geschäftslage": 93.8,
+    "Geschäftserwartungen": 83.9
+  },
+  {
+    "MonatJahr": " 07/2023",
+    "Geschäftsklima": 87.5,
+    "Geschäftslage": 91.4,
+    "Geschäftserwartungen": 83.8
+  },
+  {
+    "MonatJahr": " 08/2023",
+    "Geschäftsklima": 85.9,
+    "Geschäftslage": 89.0,
+    "Geschäftserwartungen": 83.0
+  },
+  {
+    "MonatJahr": " 09/2023",
+    "Geschäftsklima": 85.9,
+    "Geschäftslage": 88.7,
+    "Geschäftserwartungen": 83.2
+  },
+  {
+    "MonatJahr": " 10/2023",
+    "Geschäftsklima": 86.9,
+    "Geschäftslage": 89.1,
+    "Geschäftserwartungen": 84.7
+  },
+  {
+    "MonatJahr": " 11/2023",
+    "Geschäftsklima": 87.2,
+    "Geschäftslage": 89.4,
+    "Geschäftserwartungen": 85.0
+  },
+  {
+    "MonatJahr": " 12/2023",
+    "Geschäftsklima": 86.3,
+    "Geschäftslage": 88.5,
+    "Geschäftserwartungen": 84.1
+  },
+  {
+    "MonatJahr": " 01/2024",
+    "Geschäftsklima": 85.2,
+    "Geschäftslage": 86.9,
+    "Geschäftserwartungen": 83.5
+  },
+  {
+    "MonatJahr": " 02/2024",
+    "Geschäftsklima": 85.5,
+    "Geschäftslage": 86.9,
+    "Geschäftserwartungen": 84.1
+  }
+]
